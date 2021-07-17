@@ -58,12 +58,12 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 Research and define the following terms to the best of your ability.
 
-1. React: a front-end javascript library for building use interfaces
+1. React: a front-end javascript library for building use interfaces.
 
-2. React lifecycle methods: the series of events that happen from the first creation of a react component to its ending
+2. React lifecycle methods: the series of events that happen from the first creation of a react component to its ending.
 
-3. React state: an object that determines how that component behaves
+3. React state: an object that determines how that component behaves.
 
-4. Component invocation/call: to invoke the component that you are calling on
+4. Component invocation/call: to invoke the component that you are calling on.
 
-5. DOM Events: "Document Object Model" events make it so that javascript can register event handlers on elements in an HTML document
+5. DOM Events: "Document Object Model" events make it so that javascript can register event handlers on elements in an HTML document.
